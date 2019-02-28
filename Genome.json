@@ -5,7 +5,10 @@
 			"params": {
 				"stepDuration": "5",
 				"validators": {
-				}
+					[]
+				},
+				"blockRewardContractAddress": // todo
+				"blockRewardContractTransition": "0"
 			}
 		}
 	},
@@ -14,10 +17,10 @@
 		"gasLimitBoundDivisor": "0x400",
 		"minGasLimit": "0x1388",
 		"networkID": "0x62122",
-		"eip140Transition": "0",
-		"eip211Transition": "0",
-		"eip214Transition": "0",
-		"eip658Transition": "0",
+		"eip140Transition": "0x0",
+		"eip211Transition": "0x0",
+		"eip214Transition": "0x0",
+		"eip658Transition": "0x0",
 		"maxCodeSize": "0x6000"
 	},
 	"genesis": {
