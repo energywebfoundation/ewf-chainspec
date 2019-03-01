@@ -5,7 +5,7 @@
 			"params": {
 				"stepDuration": "5",
 				"validators": {
-					[]
+					"contract" : // todo
 				},
 				"blockRewardContractAddress": // todo
 				"blockRewardContractTransition": "0"
