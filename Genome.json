@@ -5,9 +5,9 @@
 			"params": {
 				"stepDuration": "5",
 				"validators": {
-					"contract" : "0x2Do"
+					"contract" : "0x2D0"
 				},
-				"blockRewardContractAddress": "0x2Do",
+				"blockRewardContractAddress": "0x2D0",
 				"blockRewardContractTransition": "0"
 			}
 		}
