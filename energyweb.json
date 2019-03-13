@@ -51,13 +51,11 @@
 		"0x1204700000000000000000000000000000000001": { "multisig1" : "placeholder" },
 		"0x1204700000000000000000000000000000000002": { "multisig2" : "placeholder" },
 		"0x1204700000000000000000000000000000000003": { "multisig3" : "placeholder" },
-		"0x1204700000000000000000000000000000000004": { "multisig4" : "placeholder" },
-		"0x1204700000000000000000000000000000000005": { "nodecontrol" : "placeholder" },
-		"0x1204700000000000000000000000000000000006": { "vesting" : "placeholder" },
-		"0x1204700000000000000000000000000000000007": { "addressmanagement" : "placeholder" }
-	},
-    "nodes": [
-      "placeholder"
-    ]
+		"0x1204700000000000000000000000000000000004": { "nodecontrol" : "placeholder" },
+		"0x1204700000000000000000000000000000000005": { "vesting" : "placeholder" }
+    },
+  "nodes": [
+    "placeholder"
+  ]
 
 }
