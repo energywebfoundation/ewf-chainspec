@@ -54,8 +54,8 @@
 		"0x1204700000000000000000000000000000000004": { "nodecontrol" : "placeholder" },
 		"0x1204700000000000000000000000000000000005": { "vesting" : "placeholder" }
     },
-  "nodes": [
-    "placeholder"
-  ]
+    "nodes": [
+      "placeholder"
+    ]
 
 }
