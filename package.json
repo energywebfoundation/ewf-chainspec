@@ -1,0 +1,23 @@
+{
+  "name": "ewf-chainspec",
+  "version": "1.0.0",
+  "description": "Volta chainspec",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/energywebfoundation/ewf-chainspec.git"
+  },
+  "keywords": [
+    "volta",
+    "chainspec"
+  ],
+  "author": "Energyweb core <core@energyweb.org>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/energywebfoundation/ewf-chainspec/issues"
+  },
+  "homepage": "https://github.com/energywebfoundation/ewf-chainspec#readme"
+}
