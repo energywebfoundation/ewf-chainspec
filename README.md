@@ -4,7 +4,7 @@ The chain specification of EWF blockchain.
 This repository is used for automatic updates of the live network and must not be moved or deleted.
 
 ## Maintainers
-**Primary**: Pietro Danzi (@danzipie)
+**Primary**: Adam Nagy (@ngyam)
 
 ## Quickstart
 Connect to the Energy Web Chain using the latest stable version of Parity Ethereum:
