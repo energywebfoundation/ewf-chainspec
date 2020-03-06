@@ -5,7 +5,7 @@ This repository is used for automatic updates of the live network and must not b
 
 |      Chain       |                              Checksum                              |   URL   |
 | ---------------- |:-----------------------------------------------------------------: | :------ |
-| Volta            | `6c83b3f61d171d2742f8f100c2aa95318ef51de336dcadfedc9785e628307998` | [https://raw.githubusercontent.com/energywebfoundation/ewf-chainspec/bcec3cbdcb09bef627f97e9f23925e024f035e67/Volta.json](https://raw.githubusercontent.com/energywebfoundation/ewf-chainspec/bcec3cbdcb09bef627f97e9f23925e024f035e67/Volta.json) |
+| Volta            | `ccfcc287b329c0660840215c8d4be7546b9ef9f4636ca32505a715d6323684a5` | [https://raw.githubusercontent.com/energywebfoundation/ewf-chainspec/1da99c6704e22a90d40d054d6f090e3322a90b12/Volta.json](https://raw.githubusercontent.com/energywebfoundation/ewf-chainspec/1da99c6704e22a90d40d054d6f090e3322a90b12/Volta.json) |
 | EnergyWebChain   | `955231dd8b5720003f68bce7836e1e2a862e6fd054f4f68f9b3ee2802e5ba9d9` | [https://raw.githubusercontent.com/energywebfoundation/ewf-chainspec/bcec3cbdcb09bef627f97e9f23925e024f035e67/EnergyWebChain.json](https://raw.githubusercontent.com/energywebfoundation/ewf-chainspec/bcec3cbdcb09bef627f97e9f23925e024f035e67/EnergyWebChain.json) |
 
 ## Maintainers
