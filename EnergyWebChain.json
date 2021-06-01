@@ -107,7 +107,7 @@
                         "price": { "modexp": { "divisor": 20 }}
                      },
                      "0xc02d51": {
-                        "info": "EIP-2565: ModExp Gas Cost. Berlin hardfork (21.06.2021 9:00 GMT+0200)",
+                        "info": "EIP-2565: ModExp Gas Cost. Berlin hardfork (28.06.2021 9:00 GMT+0200)",
                         "price": { "modexp2565": {}}
                     }
                 }
