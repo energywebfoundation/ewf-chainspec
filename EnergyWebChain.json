@@ -32,6 +32,8 @@
         "eip1706Transition": "0x4b1bb6",
         "eip1884Transition": "0x4b1bb6",
         "eip2028Transition": "0x4b1bb6",
+        "eip2929Transition": "0xc02d51",
+        "eip2930Transition": "0xc02d51",
         "registrar": "0x1204700000000000000000000000000000000006"
     },
     "genesis": {
@@ -98,13 +100,15 @@
             }
         },
         "0x0000000000000000000000000000000000000005": {
-            "balance": "1",
             "builtin": {
                 "name": "modexp",
-                "activate_at": "0",
                 "pricing": {
-                    "modexp": {
-                        "divisor": 20
+                    "0": {
+                        "price": { "modexp": { "divisor": 20 }}
+                     },
+                     "0xc02d51": {
+                        "info": "EIP-2565: ModExp Gas Cost. Berlin hardfork (21.06.2021 9:00 GMT+0200)",
+                        "price": { "modexp2565": {}}
                     }
                 }
             }
