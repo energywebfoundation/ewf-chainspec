@@ -106,7 +106,7 @@
                     "0": {
                         "price": { "modexp": { "divisor": 20 }}
                      },
-                     "0xba2155": {
+                     "0xbaa892": {
                         "info": "EIP-2565: ModExp Gas Cost. Berlin hardfork (0xbaa892)",
                         "price": { "modexp2565": {}}
                     }
