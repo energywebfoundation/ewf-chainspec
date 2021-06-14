@@ -5,8 +5,8 @@ This repository is used for automatic updates of the live network and must not b
 
 |      Chain       |                              Checksum                              |   URL   |
 | ---------------- |:-----------------------------------------------------------------: | :------ |
-| Volta            | `4dc9b793b372c532b0fe04ff94f8bbeeb1cc2772a94418084a0870aac6103f38` | [https://raw.githubusercontent.com/energywebfoundation/ewf-chainspec/master/Volta.json](https://raw.githubusercontent.com/energywebfoundation/ewf-chainspec/master/Volta.json) |
-| EnergyWebChain   | `667f48e8d3cda708ad4502ebdec1fff612779abd534bf57224d71bddcdfeb2da` | [https://raw.githubusercontent.com/energywebfoundation/ewf-chainspec/master/EnergyWebChain.json](https://raw.githubusercontent.com/energywebfoundation/ewf-chainspec/master/EnergyWebChain.json) |
+| Volta            | `38fb5371cde639799c18cb25fa83c679044c39434c63d6610dc3f300f8f30894` | [https://raw.githubusercontent.com/energywebfoundation/ewf-chainspec/master/Volta.json](https://raw.githubusercontent.com/energywebfoundation/ewf-chainspec/master/Volta.json) |
+| EnergyWebChain   | `079fc95aa56bfe37daaeaa673fc4941d451c2d2ed22c6b633a8a448de088de49` | [https://raw.githubusercontent.com/energywebfoundation/ewf-chainspec/master/EnergyWebChain.json](https://raw.githubusercontent.com/energywebfoundation/ewf-chainspec/master/EnergyWebChain.json) |
 
 ## Maintainers
 **Primary**: Adam Nagy (@ngyam)
