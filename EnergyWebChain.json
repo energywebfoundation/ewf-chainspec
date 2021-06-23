@@ -32,8 +32,8 @@
         "eip1706Transition": "0x4b1bb6",
         "eip1884Transition": "0x4b1bb6",
         "eip2028Transition": "0x4b1bb6",
-        "eip2929Transition": "0xbfbbe6",
-        "eip2930Transition": "0xbfbbe6",
+        "eip2929Transition": "0xc10499",
+        "eip2930Transition": "0xc10499",
         "registrar": "0x1204700000000000000000000000000000000006"
     },
     "genesis": {
@@ -107,8 +107,8 @@
                     "0": {
                         "price": { "modexp": { "divisor": 20 }}
                      },
-                     "0xbfbbe6": {
-                        "info": "EIP-2565: ModExp Gas Cost. Berlin hardfork (0xbfbbe6)",
+                     "0xc10499": {
+                        "info": "EIP-2565: ModExp Gas Cost. Berlin hardfork (0xc10499)",
                         "price": { "modexp2565": {}}
                     }
                 }
