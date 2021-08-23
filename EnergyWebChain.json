@@ -36,7 +36,7 @@
         "eip2930Transition": "0xc10499",
         "registrar": "0x1204700000000000000000000000000000000006",
         "transactionPermissionContract": "0x9620c6b9306629D987945Db480Cf9D9bCb8D0015",
-        "transactionPermissionContractTransition": "0xCD6E3C"
+        "transactionPermissionContractTransition": "0xCD7544"
     },
     "genesis": {
         "seal": {
