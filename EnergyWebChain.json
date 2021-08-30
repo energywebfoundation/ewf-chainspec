@@ -34,9 +34,7 @@
         "eip2028Transition": "0x4b1bb6",
         "eip2929Transition": "0xc10499",
         "eip2930Transition": "0xc10499",
-        "registrar": "0x1204700000000000000000000000000000000006",
-        "transactionPermissionContract": "0x9620c6b9306629D987945Db480Cf9D9bCb8D0015",
-        "transactionPermissionContractTransition": "0xCDF8E8"
+        "registrar": "0x1204700000000000000000000000000000000006"
     },
     "genesis": {
         "seal": {
