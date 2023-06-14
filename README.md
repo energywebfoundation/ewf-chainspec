@@ -6,29 +6,41 @@ This repository is used for automatic updates of the live network and must not b
 
 |      Chain       |                              Checksum                              |   URL   |
 | ---------------- |:-----------------------------------------------------------------: | :------ |
-| Volta            | `2c2d73850c209de89b1ef55e329b59661a4047cae340d44b343fc075c602f976` | [https://raw.githubusercontent.com/energywebfoundation/ewf-chainspec/master/Volta.json](https://raw.githubusercontent.com/energywebfoundation/ewf-chainspec/master/Volta.json) |
-| EnergyWebChain   | `7c940552f47b50de584260e1d851e8f18b147109de9d68e2a1f1b363c24a4dc9` | [https://raw.githubusercontent.com/energywebfoundation/ewf-chainspec/master/EnergyWebChain.json](https://raw.githubusercontent.com/energywebfoundation/ewf-chainspec/master/EnergyWebChain.json) |
+| Volta            | `a3703455d145171a33f4ae31ba8b1630a551b0db7fdacd7e685574d5a9fc3afb` | [https://raw.githubusercontent.com/energywebfoundation/ewf-chainspec/master/Volta.json](https://raw.githubusercontent.com/energywebfoundation/ewf-chainspec/master/Volta.json) |
+| EnergyWebChain   | `2f4b9138c08f9048cbdd3c3296d0f21cfb7ac30704db626d06440379459bedec` | [https://raw.githubusercontent.com/energywebfoundation/ewf-chainspec/master/EnergyWebChain.json](https://raw.githubusercontent.com/energywebfoundation/ewf-chainspec/master/EnergyWebChain.json) |
 
 ## Maintainers
 
-**Primary**: Adam Nagy (@ngyam)
+**Primary**: EWF DevOps (<devops@energyweb.org>)
 
 ## Quickstart
 
-Connect to the Energy Web Chain using the latest stable version of Parity Ethereum:
+Connect to the Energy Web Chain using the latest stable version of OpenEthereum(Previously Parity Ethereum):
 
-```
-parity --chain "EnergyWebChain.json"
+```shell
+openethereum --chain "EnergyWebChain.json"
 ```
 
 To connect to the Volta TEST network, type:
 
+```shell
+openethereum --chain "Volta.json"
 ```
-parity --chain "Volta.json"
+
+Connect to the Energy Web Chain using the latest stable version of Nethermind:
+
+```shell
+nethermind -c energyweb
+```
+
+To connect to the Volta TEST network, type:
+
+```shell
+nethermind -c volta
 ```
 
 ## How to verify checksum
 
-```
+```shell
 openssl dgst -sha256 path/to/your/chainspec.json
 ```
