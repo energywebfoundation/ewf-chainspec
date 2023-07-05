@@ -1,10 +1,10 @@
 {
   "name": "EWX Development Parachain",
-  "id": "dev2",
-  "chainType": "Development",
+  "id": "local_testnet",
+  "chainType": "Local",
   "bootNodes": [],
   "telemetryEndpoints": null,
-  "protocolId": "avn-dev2",
+  "protocolId": "avn-local",
   "properties": {
     "ss58Format": 42,
     "tokenDecimals": 18,
