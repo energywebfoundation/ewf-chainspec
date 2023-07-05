@@ -1,23 +1,23 @@
 {
   "name": "EWX Development Parachain",
-  "id": "dev",
+  "id": "dev2",
   "chainType": "Development",
   "bootNodes": [],
   "telemetryEndpoints": null,
-  "protocolId": "avn-dev",
+  "protocolId": "avn-dev2",
   "properties": {
     "ss58Format": 42,
     "tokenDecimals": 18,
     "tokenSymbol": "VT"
   },
   "relay_chain": "rococo-local",
-  "para_id": 2002,
+  "para_id": 2000,
   "codeSubstitutes": {},
   "genesis": {
     "raw": {
       "top": {
         "0x06c6c75b22192eaf380c45b35dfb89114e7b9012096b41c4eb3aaf947f6ea429": "0x0000",
-        "0x0d715f2646c8f85767b5d2764bb2782604a74d81251e398fd8a0a4d55023bb3f": "0xd2070000",
+        "0x0d715f2646c8f85767b5d2764bb2782604a74d81251e398fd8a0a4d55023bb3f": "0xd0070000",
         "0x0d715f2646c8f85767b5d2764bb278264e7b9012096b41c4eb3aaf947f6ea429": "0x0000",
         "0x0f7abd1c78d48b6fb232cd0ad32acb9a4e7b9012096b41c4eb3aaf947f6ea429": "0x0000",
         "0x2099d7f109d6e535fb000bba623fd4404c014e6bf8b8c2c011e7290b85696bb3": "0x10902c21005af00704532dc3d6015e5c43f51a9a6ad8554913d91cad77c2580a42ca6d68d799838d1a00e94fec85cce345ae4597f8d4f3e656756a19a3b9514a292a1f6b2e99f413ae9ae23ff1216d8a54c58a6aebfd60d47a2fc3a6dfd43da7092adf9e4e87182bcc06b56d17a5262b87557e9ecc9b6062cb48f30bd9f358a563",
