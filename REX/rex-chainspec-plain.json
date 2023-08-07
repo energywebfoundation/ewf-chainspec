@@ -25,28 +25,12 @@
         "balances": {
           "balances": [
             [
-              "5Dkn6K8YVjXhh9LicyWYVzbFPJ1HQmRJYE4dJ8NBEvKVWGKb",
-              10000000000000000000000
+              "5Gjs9QdRf8UKvt1UufF6fsLbE2PCzUgYUVKPdBjDV3FnuMPu",
+              2
             ],
             [
-              "5GWW1GevTMUMGsomZuMNe2c73jkYfS6M67ceiCkcgLdBJJxv",
-              10000000000000000000000
-            ],
-            [
-              "5CVAQkAtCUrMzDfZU7Pm8Z8cWWkPGrvPSkkc8jngtCnBYV5x",
-              10000000000000000000000
-            ],
-            [
-              "5HVsmg79NYPBBQM2fQnaD23t1fT44bmJUQSCwxR4Pguezdiu",
-              10000000000000000000000
-            ],
-            [
-              "5FeCKkLN8sJZgsyupkorQ2CLRRyrD1g44RKNBDT1sk6bvvgV",
-              10000000000000000000000
-            ],
-            [
-              "5GqBsRd25fRRbDVu3geZqWKwk1VcNKZ1JFqPUvFmNDoh9ZM9",
-              10000000000000000000000
+              "5FsEumNSCHCb6xYP2yxUMWkaBJZqi8jVvPFK5aWx44VWzsmw",
+              1
             ]
           ]
         },
@@ -182,11 +166,13 @@
           "liftingContractAddress": "0x1D9296366630fA48e74A72AdCeF52F6A7C31cB9E",
           "quorumFactor": 3,
           "eventChallengePeriod": 25,
-          "liftTxHashes": [],
+          "liftTxHashes": [
+            "0xe336c3bfde903c32c696e85156de710336c23c46da14f6bf1093cba22147aaf7"
+          ],
           "processedEvents": [
             {
               "signature": "8964776336bc2fa8ecaaf70b6f8e8450807efb1ff78f8b87980707aa821f0ec0",
-              "transaction_hash": "0xb7649436ca90c54677239778a6705bb6cfdde856a33f341da2f93c51fc29c3eb"
+              "transaction_hash": "0xe336ee6c002ef073628143be5868512b8118152c0709985f29dbf19138e0d17b"
             },
             true
           ],
