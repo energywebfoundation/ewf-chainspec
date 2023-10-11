@@ -1,7 +1,7 @@
 {
   "name": "EWX Dev Parachain Aule",
   "id": "ewx_dev_aule",
-  "chainType": "Local",
+  "chainType": "Development",
   "bootNodes": [],
   "telemetryEndpoints": null,
   "protocolId": "ew-local",
