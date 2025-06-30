@@ -6,7 +6,7 @@ This repository is used for automatic updates of the live network and must not b
 
 |      Chain       |                              Checksum                              |   URL   |
 | ---------------- |:-----------------------------------------------------------------: | :------ |
-| Volta            | `a3703455d145171a33f4ae31ba8b1630a551b0db7fdacd7e685574d5a9fc3afb` | [https://raw.githubusercontent.com/energywebfoundation/ewf-chainspec/master/Volta.json](https://raw.githubusercontent.com/energywebfoundation/ewf-chainspec/master/Volta.json) |
+| Volta            | `5f897743eaa1a6d901c377d1b7a8a385ec836c7588cf11a1b6c72172c5fdfc37` | [https://raw.githubusercontent.com/energywebfoundation/ewf-chainspec/master/Volta.json](https://raw.githubusercontent.com/energywebfoundation/ewf-chainspec/master/Volta.json) |
 | EnergyWebChain   | `2f4b9138c08f9048cbdd3c3296d0f21cfb7ac30704db626d06440379459bedec` | [https://raw.githubusercontent.com/energywebfoundation/ewf-chainspec/master/EnergyWebChain.json](https://raw.githubusercontent.com/energywebfoundation/ewf-chainspec/master/EnergyWebChain.json) |
 
 ## Maintainers
